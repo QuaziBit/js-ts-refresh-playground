@@ -1,4 +1,4 @@
-# 🧠 TypeScript Refresh Playground
+# TypeScript Refresh Playground
 
 A small personal project for refreshing and revisiting modern **TypeScript**, **DOM interaction**, and **modular code structure** — built for fun, learning, and clean practice.
 
@@ -14,7 +14,7 @@ A small personal project for refreshing and revisiting modern **TypeScript**, **
 
 ---
 
-### 🔐 PowerShell Permission (Windows only)
+### PowerShell Permission (Windows only)
 
 If you're using **PowerShell** and get an execution policy error, run:
 

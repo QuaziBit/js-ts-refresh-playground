@@ -1,0 +1,86 @@
+/**
+ * ====================================================
+ * TypeScript Fundamentals – Practice Playground
+ * ====================================================
+ *
+ * This file serves as a hands-on sandbox for exploring:
+ *
+ * Core Concepts - 01:
+ *  - Primitive types & variable declarations (let, const, var)
+ *  - Type annotations & inference
+ *  - Arrays, tuples, readonly arrays
+ *  - Functions (declaration, expression, arrow)
+ *  - Function signatures & arrow functions
+ *  - Objects, interfaces, and type aliases
+ *  - Literal types, union and intersection types
+ *  - Enums (numeric & string)
+ *  - Scopes: global, function, block, lexical (closures)
+ *  - Control flow (if, switch, loops)
+ *  - Nullish coalescing & optional chaining
+ *
+ * Type System & Safety - 02:
+ *  - Type guards (typeof, instanceof, custom)
+ *  - Type assertions (as, angle bracket syntax)
+ *  - The `unknown` and `never` types
+ *  - keyof, typeof, infer keywords
+ *
+ * Advanced - 03:
+ *  - Generics (functions, types, interfaces, classes)
+ *  - Utility types: Partial, Required, Readonly, Pick, Omit, Record
+ *  - Conditional types & mapped types
+ *  - Discriminated unions & exhaustive checks
+ *
+ * Immutability & Runtime Behavior - 04:
+ *  - readonly vs Object.freeze()
+ *  - Pass-by-value vs pass-by-reference
+ *  - Structural vs referential equality
+ *
+ * Under the Hood - 05:
+ *  - Prototype-based inheritance vs class-based
+ *  - Type erasure (how TypeScript disappears at runtime)
+ *  - What actually gets compiled
+ * 
+ * JavaScript Event Loop - 06:
+ *  - Call Stack
+ *  - Task & Microtask Queues
+ *
+ * Tooling & Compilation - 07:
+ *  - tsconfig.json basics
+ *  - TypeScript → JavaScript transpilation output
+ *  - Debugging tips with source maps
+ *
+ * Purpose - 08:
+ *  - Practice TypeScript syntax & patterns
+ *  - Deepen understanding of how TS works internally
+ *  - Test ideas without DOM or app integration
+ *
+ * Note:
+ *  This file is standalone and not part of the app.
+ *  It exists purely for personal learning and exploration.
+ */
+
+
+// --- Function Signatures & Arrow Functions ---
+// --- Objects, Interfaces & Type Aliases ---
+// --- Literal Types ---
+// --- Union & Intersection Types ---
+// --- Enums ---
+// --- Scope: Global, Function, Block, Lexical (Closures) ---
+// --- Control Flow (if, switch, loops) ---
+// --- Nullish Coalescing & Optional Chaining ---
+// --- Type Guards ---
+// --- Type Assertions ---
+// --- keyof, typeof, infer ---
+// --- unknown vs never ---
+// --- Generics ---
+// --- Utility Types (Partial, Readonly, etc.) ---
+// --- Discriminated Unions ---
+// --- Immutability (readonly vs Object.freeze) ---
+// --- Pass-by-Value vs Reference ---
+// --- Structural vs Referential Equality ---
+// --- Prototype vs Class-based OOP ---
+// --- Prototyping & Prototype Chain ---
+// --- Type Erasure & Compilation ---
+// --- tsconfig.json Exploration ---
+// --- Transpiled Output vs Original ---
+// --- Source Maps & Debugging ---
